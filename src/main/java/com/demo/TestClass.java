@@ -11,7 +11,7 @@ public abstract class TestClass {
     /**
      * Method B. Does nothing important.
      */
-    public static void methodB() {
+    public static void MethodB() {
         System.out.println("Methode B!");
     }
 
